@@ -22,7 +22,7 @@ Currently studying and developing some projects using AI
 </div>
  
 <div align="center"> 
-  <a href="arthurwillame2017@gmail.com">
+  <a href="mailto:arthurwillame2017@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/arthur-willame-14716b28b/" target="_blank">
