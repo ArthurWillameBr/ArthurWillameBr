@@ -38,8 +38,8 @@ Currently studying and developing some projects using AI
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma,git,vite,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,postman,firebase,mongodb,prisma,mysql,postgres,docker,redux" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,git,vite,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,postman,mongodb,prisma,mysql,postgres,docker" /><br>
 </div>
 
 <br/>
